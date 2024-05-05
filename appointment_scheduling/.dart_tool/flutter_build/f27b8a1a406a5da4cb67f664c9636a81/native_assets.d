@@ -1,0 +1,1 @@
+ D:\\appointment_scheduling\\appointment_scheduling\\.dart_tool\\flutter_build\\f27b8a1a406a5da4cb67f664c9636a81\\native_assets.yaml: 
